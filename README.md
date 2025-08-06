@@ -1,6 +1,6 @@
-# pythonLearningTemplate
+# pythonDataScienceLesson-3
 
-Template for easy startups with Projects using VS Code
+This lesson will go over Decision Trees and Cross Validation
 
 ## Setup Instructions
 

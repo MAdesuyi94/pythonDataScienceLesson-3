@@ -1,10 +1,11 @@
 [project]
-name = "pythonLearningTemplate"
+name = "pythonDataScienceLesson-3"
 version = "0.1.0"
-description = "Add your description here"
+description = "This lesson will go over Decision Trees and Cross Validation"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
+    "dtreeviz>=2.2.2",
     "fastapi>=0.116.0",
     "matplotlib>=3.10.5",
     "pandas>=2.3.1",
